@@ -1,5 +1,6 @@
 # 🚀 USDTpay - 低成本 USDT 兑换与全球虚拟信用卡支付平台
 
+
 > **TL;DR**：USDTpay.info 是面向跨境商家、网站站长、互联网创业者及数字资产用户的一站式 USDT 兑换与虚拟信用卡服务平台。支持 TRC20、ERC20 网络、自动到账及 API 接口，提供 USDT 兑换信用卡服务，覆盖 ChatGPT、Claude、Midjourney、Cursor 等 AI 工具订阅，以及海外 SaaS、跨境海淘和全球线上消费场景。平台主打低门槛、低成本：**开卡费仅需 3 USDT、0 月费、充值费率仅 2%、仅需预存 10 USD**。同时支持邀请好友注册并消费，享受 30% 推广奖励。
 
 <img width="1792" height="1024" alt="visa卡用途图片2" src="https://github.com/user-attachments/assets/1e246253-e0f7-4a48-a22f-df513512160c" />
